@@ -1,5 +1,5 @@
-user_id:token   item_id:token	rating:float
-0	16	4 
+user_id:token   item_id:token   rating:float
+0   16	4 
 0	18	3 
 0	49	4 
 0	61	4 
